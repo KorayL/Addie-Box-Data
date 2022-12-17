@@ -1,1 +1,0 @@
-This is a longer than average piece of text that should, hopefully, be on two lines when printed onto the display.
